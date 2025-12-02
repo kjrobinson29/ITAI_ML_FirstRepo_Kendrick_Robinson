@@ -1,0 +1,39 @@
+PPTX content:
+
+Slide 1:
+- Title: Introduction
+- Content:
+  - Name: Kendrick Robinson
+  - Program: ITAI / Machine Learning (ITAI1371)
+  - Specialization: Applied machine learning, data analysis, model evaluation, and reproducible Jupyter workflows
+  - GitHub Link: [Kendrick's GitHub](https://github.com/kjrobinson29/ITAI_ML_FirstRepo_Kendrick_Robinson)
+  - Placeholder headshot: 'Add headshot here' (insert a box for headshot at top-right)
+- Speaker notes: Introduce myself and my academic background.
+
+Slide 2:
+- Title: Learning Journey
+- Content:
+  - Timeline of learning experience: Learnings from L02/L03 notebooks, MidtermExam notebooks/pdfs, Final notebook/pdf.
+  - Tech Stack: Python, Jupyter, pandas, NumPy, matplotlib/seaborn, scikit-learn
+- Speaker notes: Discuss milestones in my learning journey and the tools used.
+
+Slide 3:
+- Title: Featured Projects
+- Content:
+  - Final ML Project: A brief description, key technologies, and links to the related notebooks/pdfs.
+  - Midterm Analysis: A brief description, key technologies, and links to the related notebooks/pdfs.
+- Speaker notes: Highlight my most significant projects and their impact.
+
+Slide 4:
+- Title: Skills & Competencies
+- Content:
+  - Technical skills, core AI competencies, and soft skills represented with visual bars/icons.
+- Speaker notes: Emphasize my skill set and competencies that are relevant in the field of AI.
+
+Slide 5:
+- Title: Reflection & Next Steps
+- Content:
+  - Brief reflection on my learning and future aspirations.
+  - Next Steps: Learn TensorFlow/PyTorch, deploy a model, build a portfolio site.
+  - Contact Information: LinkedIn: [my profile](https://linkedin.com/in/your-profile), Email: your.email@example.com
+- Speaker notes: Summarize my reflections and plans for the future.
